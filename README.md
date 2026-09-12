@@ -10,4 +10,5 @@
  - For me, programming is therefore not only about learning how to make something work. It is also about learning what I can design. I started this course because I had to learn programming, but I want to continue learning it because I can now see its value in my professional transition. My starting point may be a blank page, but I hope to gradually fill it with the knowledge and skills that can help me turn my ideas into real experiences. AI may change how we write code, but it does not remove the need for designers to understand what they want to create and why.
 
 ## References
-https://www.bilibili.com/video/BV1QwZ9YWEAU?t
+ - https://www.bilibili.com/video/BV1QwZ9YWEAU?t
+ - https://www.bilibili.com/video/BV1Se411W76h?t
