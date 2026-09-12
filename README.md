@@ -1,5 +1,5 @@
 # SD5913
 
-Test Commit
+I studied Product Design during my undergraduate years. In product design, I learned to observe users, find problems, and create solutions through physical products. However, as I started to learn about other design fields, I found that design does not always have to be a physical object. It can also be an interaction, a digital experience, or a system. This made me start thinking about programming. To be honest, programming was not something I decided to learn by myself at first. It is a required part of this course, and my programming knowledge was almost a blank page when I started. However, I decided to take this course seriously and try my best to learn it, because I began to see how programming could be useful for my future as a designer. For me, learning programming is not mainly about becoming a programmer. It is about understanding a new design field and having more control over my ideas.
 
 ## References
